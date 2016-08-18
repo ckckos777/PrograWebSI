@@ -1,0 +1,2 @@
+verifica si existe una rama si no la crea (checkout)
+crea branch -> rama
